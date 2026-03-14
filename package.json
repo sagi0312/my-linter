@@ -1,0 +1,16 @@
+{
+  "name": "my-linter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "my-linter": "./index.js"
+  },
+  "keywords": [],
+  "author": "Anju Karanji",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "acorn": "^8.16.0"
+  }
+}
